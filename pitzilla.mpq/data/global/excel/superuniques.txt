@@ -66,4 +66,4 @@ Baal Subject 2	Baal Subject 2	unraveler5	62		23	0	0	3	3	0	1		21	21	21	Act 5 Cham
 Baal Subject 3	Baal Subject 3	baalhighpriest	63		17	0	0	5	5	0	1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
 Baal Subject 4	Baal Subject 4	venomlord	64		6	0	0	8	8	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		27	0	0	5	5	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
-Workfire	Workfire	zombie1	66		27	29	6	20	20	0	0		25	25	25	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+Workfire	Workfire	hellbovine	66		27	29	6	0	0	0	0		25	25	25	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
