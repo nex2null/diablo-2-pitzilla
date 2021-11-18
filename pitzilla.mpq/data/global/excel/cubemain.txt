@@ -150,4 +150,4 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
-	1			100					1	tsc							Red Portal,qty=137																																																																																							0
+	1			100					1	tsc							Red Portal,qty=140																																																																																							0

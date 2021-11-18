@@ -1093,3 +1093,4 @@ Act 5 - Baal Entrance	1089	120	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/mountaintop/M
 Act 5 - Pandemonium Finale	1090	136	1	0	1	0	0	1	0	0	0	1	0	0	1	Act1/Tristram/Tri_Town4.ds1	0	0	0	0	0	63
 Pitzilla Boss Room 1	1091	138	1	0	0	0	1	0	0	0	1	1	0	0	1	Act1/Caves/pzboss1.ds1	0	0	0	0	0	1
 Pitzilla End	1092	139	1	0	0	0	1	0	0	0	1	1	0	0	1	Act1/Caves/pzend.ds1	0	0	0	0	0	1
+Pitzilla Entrance	1093	140	1	0	0	0	1	1	0	0	1	1	0	0	1	Act1/Caves/pzent.ds1	0	0	0	0	0	1
